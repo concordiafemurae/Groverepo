@@ -1,22 +1,10 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2638
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fswiss\fcharset0 Helvetica-Oblique;\f2\froman\fcharset0 Times-Roman;
-}
-{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red0\green0\blue233;}
-{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;\cssrgb\c0\c0\c93333;}
-\margl1440\margr1440\vieww11520\viewh8400\viewkind0
-\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+33131 is an enigmatic individual seen throughout the early KGB timeline on reddit and 8kun. They were also seen in the Tavern on the Omega Gateway.
 
-\f0\fs24 \cf0 33131 is an enigmatic individual seen throughout the early KGB timeline on reddit and 8kun. They were also seen in the Tavern on the Omega Gateway.\
-\
-\pard\pardeftab720\sa240\partightenfactor0
-\cf0 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 On April 7th, 33131 made their reddit account. 33131 routinely made posts to their reddit and would also communicate with others. On April 19, 33131 posted the logo to the {\field{\*\fldinst{HYPERLINK "https://silentemergence.fandom.com/wiki/Unseen"}}{\fldrslt 
-\f1\i \cf3 \ul \ulc3 \strokec3 Unseen}} video. On April 22, 33131 mentioned on reddit they were \'93Waiting for the Door\'94 - a reference to the {\field{\*\fldinst{HYPERLINK "https://silentemergence.fandom.com/wiki/The_Door_and_Locks"}}{\fldrslt 
-\f1\i \cf3 \ul \ulc3 \strokec3 Door and Locks}} video that was uploaded two days later. On May 3rd, they posted the geisha image from {\field{\*\fldinst{HYPERLINK "https://silentemergence.fandom.com/wiki/Inside_the_Loop"}}{\fldrslt 
-\f1\i \cf3 \ul \ulc3 \strokec3 Inside the Loop}}, which was uploaded to the KGB YouTube channel on April 27th.\
-Allegations arose later on 8kun with solvers claiming 33131 had inside information on Komplot Group Band affairs, specifically the nature of the {\field{\*\fldinst{HYPERLINK "https://silentemergence.fandom.com/wiki/Omega_Gateway"}}{\fldrslt \cf3 \ul \ulc3 \strokec3 Omega Gateway}} and its creators. While many of the allegations have yet to be proved, 33131 allegedly doxxed a well-known member of the solver community claiming they were working with KGB. While the solver in question has not commented on these allegations, the dox was acknowledged. Friends of the solver community and early members of the Omega Gateway retaliated and supposedly hacked 33131's reddit. As a result, 33131 took to 8kun and denounced the solvers, vowing to destroy any attempt to reach the Gateway. It is unclear if 33131 themselves made this threat.\
-There were also allegations that 33131 was attacking KGB file-dropper sites and hidden services. A notable service suggested to have been attacked was the Iota Gateway, which led to it being labelled as COMPROMISED in the Omega Gate {\field{\*\fldinst{HYPERLINK "https://silentemergence.fandom.com/wiki/Forge_(%CE%A9)"}}{\fldrslt \cf3 \ul \ulc3 \strokec3 Forge}}.\
-So far none of the above has been proven factual. It is unknown if 33131 is a solver or an NPC created by the Komplot Group Band.\
-33131 does not bear the typical naming convention of a number person\'97using 5 digits instead of the regular 4. It\'92s possible this denotes a kind of hierarchy within the numbers. Extending on this idea, some numbers such as number 13 from the Silent Circle, perhaps exist in a larval form within the numbers journey. 33131 therefore, perhaps, represents an elite or enlightened form of number.
-\f2 \
-}
+On April 7th, 33131 made their reddit account. 33131 routinely made posts to their reddit and would also communicate with others. On April 19, 33131 posted the logo to the Unseen video. On April 22, 33131 mentioned on reddit they were “Waiting for the Door” - a reference to the Door and Locks video that was uploaded two days later. On May 3rd, they posted the geisha image from Inside the Loop, which was uploaded to the KGB YouTube channel on April 27th.
+
+Allegations arose later on 8kun with solvers claiming 33131 had inside information on Komplot Group Band affairs, specifically the nature of the Omega Gateway and its creators. While many of the allegations have yet to be proved, 33131 allegedly doxxed a well-known member of the solver community claiming they were working with KGB. While the solver in question has not commented on these allegations, the dox was acknowledged. Friends of the solver community and early members of the Omega Gateway retaliated and supposedly hacked 33131's reddit. As a result, 33131 took to 8kun and denounced the solvers, vowing to destroy any attempt to reach the Gateway. It is unclear if 33131 themselves made this threat.
+
+There were also allegations that 33131 was attacking KGB file-dropper sites and hidden services. A notable service suggested to have been attacked was the Iota Gateway, which led to it being labelled as COMPROMISED in the Omega Gate Forge.
+So far none of the above has been proven factual. It is unknown if 33131 is a solver or an NPC created by the Komplot Group Band.
+
+33131 does not bear the typical naming convention of a number person—using 5 digits instead of the regular 4. It’s possible this denotes a kind of hierarchy within the numbers. Extending on this idea, some numbers such as number 13 from the Silent Circle, perhaps exist in a larval form within the numbers journey. 33131 therefore, perhaps, represents an elite or enlightened form of number.
